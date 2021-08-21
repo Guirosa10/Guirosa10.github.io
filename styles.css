@@ -1,0 +1,50 @@
+
+body{
+    background-color: #75B09C;
+    padding: 1%;
+    
+}
+
+.description{
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    top: 36%;
+    right: 38%;
+    
+}
+.head{
+    background-image: url("Aracaju.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 5px solid black;
+    height: 840px;
+   
+    
+    
+}
+#herotitle{
+    color: #e2ebe8;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    
+}
+
+
+#minhaFoto{
+    float: left;
+    width: 300px;
+    padding: 10px;
+    background-color: azure;
+    border-radius: 30%;
+}
+
+.imgcontainer{
+    height: 300px;
+    position: relative;
+}
+
+
+
